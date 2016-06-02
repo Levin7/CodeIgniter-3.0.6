@@ -1,0 +1,1 @@
+php D:\wamp\www\CodeIgniter-3.0.6\index.php cron/timing_script
